@@ -3,7 +3,7 @@
 Mark Joseph wanyeri 
 REG.CT101/G/26443/25
 date 9/23/2025
-calculations of volume and surface area 
+
 */
 #include<stdio.h> 
 
