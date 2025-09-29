@@ -2,6 +2,8 @@
 Reg :CT101/G/26443/25
 date 28/5/2025
 A program to check exam eligibility 
+if astuident have more than 75% attendance and have more than 40 marks then they qualify for the exam 
+otherwise they are not qualified
 */
 #include<stdio.h>
 int main (){
