@@ -47,6 +47,6 @@ default:
 printf("invalid option please try an option between 1 and 4\n");
 }
 
-printf("\nwould you like to continue with the perchase of this data\n");
+printf("\n would you like to continue with the perchase of this data\n");
 return 0 ;
 }
